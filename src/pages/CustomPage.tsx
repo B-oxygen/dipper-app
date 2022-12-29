@@ -141,19 +141,19 @@ const CustomPage: FunctionComponent = () => {
           alt="skin"
         />
         <img
-          className={styles.skin}
+          className={styles.hair}
           data-animate-on-scroll
           src={hairSort}
           alt="hair"
         />
         <img
-          className={styles.skin}
+          className={styles.eyes}
           data-animate-on-scroll
           src={eyesSort}
           alt="eyes"
         />{" "}
         <img
-          className={styles.skin}
+          className={styles.eyebrow}
           data-animate-on-scroll
           src={eyebrowSort}
           alt="eyebrow"

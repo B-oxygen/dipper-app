@@ -210,14 +210,14 @@
 .outline {
   z-index: 2;
 }
-.hair {
+.eyes {
   z-index: 3;
 }
-.eyes {
+.eyebrow {
   z-index: 4;
 }
-.eyebrow {
-  z-index: 5;
+.hair {
+  z-index: 6;
 }
 .clothes {
   z-index: 6;
